@@ -1,0 +1,8 @@
+n= int(input('enter the term number:\t'))
+s=0
+while(num!=0):
+if n%2==0
+   print('digit is',n*6)
+else:
+    n%3==0
+    print('digit is',n*7)
