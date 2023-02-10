@@ -1,0 +1,11 @@
+n = int(input())
+s=0
+while (num!=0):
+    i=num%10
+    a=(i**3)
+    sum=sum+a
+    num=num//10
+if(sum==x):
+    print('armstrong number')
+else:
+    print('not an armstrong number')
