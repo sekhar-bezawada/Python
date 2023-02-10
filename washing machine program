@@ -1,0 +1,11 @@
+wt=int(input())
+if wt in range(0,7000):
+    if wt in range(0,2001):
+        print('25min')
+    if wt in range(2001,4000):
+        print('35min')
+    if wt in range(4001,7000):
+        print('45min')
+else:
+    print('invalid input')
+        
